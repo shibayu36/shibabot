@@ -1,1 +1,1 @@
-web: bin/hubot --adapter xmpp
+web: bin/hubot --adapter xmpp --name shibabot
